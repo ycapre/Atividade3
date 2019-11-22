@@ -1,8 +1,2 @@
-Um texto lorem ipsum para o teste
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper ligula iaculis metus ullamcorper, ut viverra neque semper. 
-Nulla facilisi. Praesent libero nunc, accumsan ac dictum elementum, scelerisque id odio. In eu mi ultrices, eleifend orci a, 
-maximus justo. Aenean volutpat cursus diam, vel dictum dolor cursus non. Vivamus ut est quis erat egestas ultrices.
-Vestibulum vitae placerat odio. Phasellus luctus nulla eu diam sodales, sit amet iaculis enim mollis. Suspendisse vulputate 
-ac sem ut vestibulum. Sed vel semper tellus, id mollis turpis. Curabitur porta tincidunt magna, eget imperdiet ex dapibus vitae. 
-Proin pellentesque mauris ut imperdiet sagittis. Aenean vitae ultrices lacus. Cras placerat porta metus vel hendrerit. Nulla ultrices 
-massa ac lacus rutrum gravida.
+aqui neste arquivo escreverei algumas coisas para alterá-lo e salvar o arquivo para poder realizar um commit
+assim sendo chegarei mais próximo da minha meta final 

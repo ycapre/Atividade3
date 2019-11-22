@@ -1,6 +1,0 @@
-texto 2 para alteração e commit
-Pellentesque lobortis varius eros vel malesuada. Mauris interdum, ligula sit amet efficitur accumsan, nibh ipsum pharetra mi, 
-ut malesuada nibh magna et purus. Quisque augue nisi, pretium non posuere non, tincidunt eget ipsum. Nulla ut enim non urna 
-vehicula maximus vel ut eros. Praesent volutpat elementum odio, et egestas sem tristique vitae. Interdum et malesuada fames ac 
-ante ipsum primis in faucibus. Quisque sed tristique tellus. Ut sit amet tempor lorem, sit amet accumsan risus. Pellentesque 
-habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
