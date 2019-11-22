@@ -1,1 +1,8 @@
 texto 3 para poder realizar a atividade pois precisso de 10 commits
+Nunc sed consequat nulla. Maecenas sed nibh et sem dapibus malesuada vitae a erat. Sed tempus et orci ac mattis. Phasellus efficitur
+ lacinia ullamcorper. Suspendisse lectus magna, lacinia ac nisi id, imperdiet fermentum nibh. Suspendisse facilisis fermentum elit
+  sed malesuada. Quisque consectetur felis ligula, id venenatis elit rutrum non. Vestibulum nulla tortor, rutrum non pretium vel, 
+  semper ac metus. Sed gravida est nibh, eget feugiat odio tempor sit amet. Aliquam pharetra justo at accumsan mattis. Suspendisse 
+  vestibulum enim nec odio iaculis faucibus. Phasellus dignissim suscipit sapien, in congue tellus laoreet et. Class aptent taciti 
+  sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+   Praesent vulputate ut arcu et eleifend. Integer tortor sapien, euismod id sagittis vel, ornare ac tellus.
